@@ -1,0 +1,17 @@
+{
+  "name": "node_typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "calculadora": "node build/test/calculadora_tests.js",
+    "palabra": "node build/test/palabra_test.js",
+    "compras": "node build/test/compras_test.js"
+  },
+  "keywords": [],
+  "author": "Lorblak",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-clean": "^1.0.3"
+  }
+}

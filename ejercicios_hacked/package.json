@@ -1,0 +1,23 @@
+{
+  "name": "ejercicios_hacked",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "increment": "node build/test/01.increment_me_test.js",
+    "absolute": "node build/test/02.absolute_test.js",
+    "push": "node build/test/03.push_it_test.js",
+    "max": "node build/test/04.maxxxx_test.js",
+    "odd": "node build/test/05.odd_test.js",
+    "panama": "node build/test/06.panama_test.js",
+    "missing": "node build/test/07.missing_numbers_test.js",
+    "anagrams": "node build/test/08.anagrams_test.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "console-table-printer": "^2.8.2"
+  }
+}

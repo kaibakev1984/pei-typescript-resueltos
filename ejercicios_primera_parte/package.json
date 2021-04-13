@@ -1,0 +1,15 @@
+{
+  "name": "ejercicios_primera_parte",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "calculadora": "node build/test/testCalculadora.js",
+    "rectangulo": "node build/test/testRectangulo.js",
+    "vehiculo": "node build/test/testVehiculo.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
